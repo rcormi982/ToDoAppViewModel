@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="title">Títle</string>
+    <string name="body">Description</string>
+    <string name="create_task">Create task</string>
+    <string name="share">Share</string>
+</resources>
